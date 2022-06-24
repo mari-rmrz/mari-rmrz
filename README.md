@@ -1,14 +1,14 @@
 ### Hello there 👋 
 
 My name is Mariangel and I'm a Software Developer. Originally I'm from Venezuela, now I'm living in Canada. I graduated with a Bachelor of Computer Information Systems from Mount Royal University in 2021.
-- 🚀 Currently I'm working at <a href="https://www.trimac.com/">Trimac Transportation Ltd.</a> as a Full Stack Developer
+- 🚀 Currently I'm working at <a href="https://www.trimac.com/" target="_blank">Trimac Transportation Ltd.</a> as a Full Stack Developer
 - 💭 I’m interested in learning all the things! I'm curious about new technologies and 
 - 🌱 I’m currently learning Typescript, GraphQL and Kubernetes
 - 📫 You can reach me at mariangelrmrz@gmail.com
 
 You can also find me here
 
-<a href="https://www.linkedin.com/in/mariangel-ramirez/" rel="nofollow">
+<a href="https://www.linkedin.com/in/mariangel-ramirez/" rel="nofollow" target="_blank">
     <img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
 
