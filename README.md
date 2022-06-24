@@ -14,7 +14,7 @@ You can also find me here
 
 ---
 
-Languages & Technologies
+#### Languages & Technologies
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e05eaf8bb60da08c9b55036474c4e1f86a4c9ce6e3360d43cc97335309dba6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074"><img src="https://camo.githubusercontent.com/e05eaf8bb60da08c9b55036474c4e1f86a4c9ce6e3360d43cc97335309dba6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6424c761a99e4d5a5dba0f726fd292a299dc8e695868dce735863ddd6ec753f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3030303f266c6f676f3d5265616374"><img src="https://camo.githubusercontent.com/6424c761a99e4d5a5dba0f726fd292a299dc8e695868dce735863ddd6ec753f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3030303f266c6f676f3d5265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-React-000?&amp;logo=React" style="max-width: 100%;"></a>
@@ -22,7 +22,9 @@ Languages & Technologies
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/60a3ac562cd5f72985377d0cc4c34ea9cb1c948fce0668385d8b32cbf5a90247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303f266c6f676f3d4d7953514c"><img src="https://camo.githubusercontent.com/60a3ac562cd5f72985377d0cc4c34ea9cb1c948fce0668385d8b32cbf5a90247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303f266c6f676f3d4d7953514c" alt="SQL" data-canonical-src="https://img.shields.io/badge/-SQL-000?&amp;logo=MySQL" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8ec8e5e395a3611721a2aade4691403ccdd1ffcd6e5e1e0446281984339be921/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030303f266c6f676f3d63253262253262266c6f676f436f6c6f723d303035393943"><img src="https://camo.githubusercontent.com/8ec8e5e395a3611721a2aade4691403ccdd1ffcd6e5e1e0446281984339be921/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030303f266c6f676f3d63253262253262266c6f676f436f6c6f723d303035393943" alt="C++" data-canonical-src="https://img.shields.io/badge/-C++-000?&amp;logo=c%2b%2b&amp;logoColor=00599C" style="max-width: 100%;"></a>
 
-Other skills and tools: Project management • VR/AR development • Redux • Formik • Material UI • Mapbox 
+#### Skills and tools
+
+Project management • VR/AR development • Redux • Formik • Material UI • Mapbox 
 
 <!---
 mari-rmrz/mari-rmrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
