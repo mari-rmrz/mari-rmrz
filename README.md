@@ -1,6 +1,6 @@
 ### Hello there 👋 
 
-My name is Mariangel and I'm a Software Developer. Originally I'm from Venezuela, now I'm living in Canada. I graduated with a Bachelor of Computer Information Systems from Mount Royal University in 2021.
+My name is Mari and I'm a Software Developer. Originally I'm from Venezuela, now I'm living in Canada. I graduated with a Bachelor of Computer Information Systems from Mount Royal University in 2021.
 - 🚀 Currently I'm working at <a href="https://www.trimac.com/" target="_blank">Trimac Transportation Ltd.</a> as a Full Stack Developer
 - 💭 I’m interested in learning all the things! I'm curious about new technologies and 
 - 🌱 I’m currently learning Typescript, GraphQL and Kubernetes
